@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ClearSalesforceTaskData", "ClearSalesforceTaskData\ClearSalesforceTaskData.vbproj", "{4130F77F-CACB-469B-A54E-A9F2E1B06667}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4130F77F-CACB-469B-A54E-A9F2E1B06667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4130F77F-CACB-469B-A54E-A9F2E1B06667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4130F77F-CACB-469B-A54E-A9F2E1B06667}.Debug|x86.ActiveCfg = Debug|x86
+		{4130F77F-CACB-469B-A54E-A9F2E1B06667}.Debug|x86.Build.0 = Debug|x86
+		{4130F77F-CACB-469B-A54E-A9F2E1B06667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4130F77F-CACB-469B-A54E-A9F2E1B06667}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4130F77F-CACB-469B-A54E-A9F2E1B06667}.Release|x86.ActiveCfg = Release|x86
+		{4130F77F-CACB-469B-A54E-A9F2E1B06667}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE0AFC71-3E43-410F-8191-16E8BEB06530}
+	EndGlobalSection
+EndGlobal
